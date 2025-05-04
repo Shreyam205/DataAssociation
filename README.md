@@ -1,2 +1,2 @@
 # DataAssociation
-Data  Associaton project using EJS, tailwind CSS, MongoDB, NodeJS, Express, JWT, cookie-parser and bcrypt
+Data  Associaton project using MongoDB, Node JS and Express JS
